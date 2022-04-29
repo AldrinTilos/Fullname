@@ -1,0 +1,17 @@
+C:\Users\tilos\source\repos\Full Name\Full Name\bin\Debug\net6.0-windows\Full Name.exe
+C:\Users\tilos\source\repos\Full Name\Full Name\bin\Debug\net6.0-windows\Full Name.deps.json
+C:\Users\tilos\source\repos\Full Name\Full Name\bin\Debug\net6.0-windows\Full Name.runtimeconfig.json
+C:\Users\tilos\source\repos\Full Name\Full Name\bin\Debug\net6.0-windows\Full Name.dll
+C:\Users\tilos\source\repos\Full Name\Full Name\bin\Debug\net6.0-windows\Full Name.pdb
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.csproj.AssemblyReference.cache
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full_Name.Form1.resources
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.csproj.GenerateResource.cache
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.AssemblyInfoInputs.cache
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.AssemblyInfo.cs
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.csproj.CoreCompileInputs.cache
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.dll
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\refint\Full Name.dll
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.pdb
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\Full Name.genruntimeconfig.cache
+C:\Users\tilos\source\repos\Full Name\Full Name\obj\Debug\net6.0-windows\ref\Full Name.dll
